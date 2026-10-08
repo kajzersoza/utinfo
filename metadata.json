@@ -1,0 +1,6 @@
+{
+  "name": "ÚtInfó & SávAsszisztens",
+  "description": "Intelligens magyar nyelvű útinformációs, sávkövető és úthiba-bejelentő alkalmazás OpenStreetMap (online és offline .osm/.geojson) támogatással, hangos felolvasással és azonnali GPS rögzítéssel.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
